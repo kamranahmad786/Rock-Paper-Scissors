@@ -22,4 +22,4 @@ const Buttons = props => {
   )
 }
 
-export default Button
+export default Buttons
